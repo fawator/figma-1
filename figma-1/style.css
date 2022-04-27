@@ -1,0 +1,353 @@
+.main {
+    /* Rectangle */
+
+
+    position: absolute;
+    width: 2011px;
+    height: 84px;
+    left: 0px;
+    top: 0px;
+
+    background: #007765;
+}
+
+.logo-text {
+    position: absolute;
+    margin: 20px 1326px 19px 501px;
+
+
+
+}
+
+.logo-rect {
+    position: absolute;
+    margin: 20px 1465px 19px 501px;
+}
+
+.text1 {
+    position: absolute;
+    width: 129px;
+    height: 29px;
+    margin: 28px 695px 27px 1197px;
+    bottom: 19px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.text2 {
+    position: absolute;
+    width: 154px;
+    height: 29px;
+    bottom: 19px;
+    margin: 29px 518px 26px 1329px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.text3 {
+    position: absolute;
+    width: 95px;
+    height: 29px;
+    bottom: 19px;
+    margin: 29px 400px 26px 1490px;
+
+
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.stick1 {
+
+
+
+    /* | */
+
+
+    position: absolute;
+    width: 7px;
+    height: 29px;
+    margin: 28px 680px 27px 1324px;
+    bottom: 19px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
+.stick2 {
+
+
+
+    /* | */
+
+
+    position: absolute;
+    width: 7px;
+    height: 29px;
+    margin: 29px 503px 27px 1479px;
+    bottom: 19px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.textPiper {
+    position: absolute;
+    width: 1219px;
+    height: 83px;
+    margin: 80px 396px 160px 396px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 72px;
+    line-height: 84px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.pipernet {
+    position: absolute;
+    width: 2011px;
+    height: 403px;
+    left: 0px;
+    top: 84px;
+
+}
+
+.theProblem {
+    position: absolute;
+    width: 2011px;
+    height: 700px;
+    left: 0px;
+    top: 487px;
+
+    background: #EEEEEE;
+}
+
+.problemText1 {
+    position: absolute;
+    width: 1107px;
+    height: 75px;
+    margin: 48px 453px 596px 451px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 75px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #007765;
+}
+
+.problemText2 {
+    position: absolute;
+    width: 1110px;
+    height: 488px;
+    margin: 179px 450px 92px 451px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+
+    color: #000000;
+}
+
+/* сначала pipernet потом textpipernet!!!!!!!!!!! */
+
+.bluePrint {
+    position: absolute;
+    width: 2011px;
+    height: 482px;
+    left: 0px;
+    top: 1187px;
+
+    background: #EEEEEE;
+}
+
+.textWere {
+    position: absolute;
+    width: 893px;
+    height: 228px;
+    margin: 128px 559px 127px 559px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
+.Introducing {
+
+    position: absolute;
+    width: 2011px;
+    height: 604px;
+    left: 0px;
+    top: 1689px;
+
+    background: #FFFFFF;
+}
+
+.introText p {
+    position: absolute;
+    width: 1110px;
+    height: 75px;
+    margin: 48px 450px 481px 451px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 75px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #007765;
+}
+
+.introTextFirst {
+    position: absolute;
+    width: 930px;
+    height: 110px;
+    margin: 139px 467px 355px 614px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+
+    color: #000000;
+}
+
+.introTextSecond {
+    position: absolute;
+    width: 1110px;
+    height: 223px;
+    margin: 289px 450px 92px 451px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+
+    color: #000000;
+}
+
+.introducingLogo {
+    position: absolute;
+    width: 115px;
+    height: 115px;
+    margin: 139px 1445px 350px 451px;
+}
+
+.theTeam {
+
+    position: absolute;
+    width: 2011px;
+    height: 845px;
+    left: 0px;
+    top: 2293px;
+
+    background: #EEEEEE;
+}
+
+.theTeam {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+}
+
+.richard {
+    grid-area: 2 / 1 / 3 / 2;
+    top: 189px;
+    right: 1301px;
+}
+
+.neison {
+    grid-area: 2 / 3 / 3 / 4;
+}
+
+.dinesh {
+    grid-area: 2 / 5 / 3 / 6;
+}
+
+.bertram {
+    grid-area: 4 / 1 / 5 / 2;
+}
+
+.jared {
+    grid-area: 4 / 3 / 5 / 4;
+}
+
+.monica {
+    grid-area: 4 / 5 / 5 / 6;
+}
+
+.teamText {
+    grid-area: 1 / 3 / 2 / 4;
+}
